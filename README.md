@@ -1,7 +1,7 @@
 # ANÁLISE DA SAÚDE FINANCEIRA DE UMA EMPRESA - Projeto da Data Science Academy para o curso: Análise Estatística de Dados e Machine Learning em R
 
 
-# OBJETIVO: O projeto tem o objetivo de auxiliar na tomada de decisão os possíveis investidores a realizar o investimento em uma empresa, Netflix.
+# OBJETIVO: O projeto tem o objetivo de auxiliar na tomada de decisão os possíveis investidores a investirem em uma empresa.
 
 # INTRODUÇÃO: O projeto contempla um resumo estatístico dos dados de uma empresa, demonstrando sua saúde financeira e outras informações relevantes,
 # que poderão ajudar potenciais investidores a decidir sobre investir ou não na companhia. Os resultados foram baseados em um dataset (em anexo) do
